@@ -12,6 +12,10 @@ Hotel Management Dashboard in Power BI is a powerful tool that consolidates key 
 - Operational Metrics: Tracks key operations like housekeeping efficiency, maintenance costs, and staff performance to optimize daily operations and reduce costs.
 - Comparative Performance: Allows comparison of multiple properties (if managing more than one hotel) and benchmarking against industry standards or internal goals.
 
+
+https://github.com/user-attachments/assets/6cee1636-54b8-427c-87f1-d5884cd9856b
+
+
 Project is in development phase.
 
 ## Main
