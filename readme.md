@@ -2,7 +2,7 @@
 
 Hotel Management Dashboard in Power BI is a powerful tool that consolidates key performance indicators (KPIs) and operational data into a visually accessible format, allowing hotel managers and executives to make data-driven decisions efficiently. By integrating various data sources like reservations, revenues, guest demographics, and operational costs, this dashboard offers real-time insights into the hotel's performance.
 
-![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_eight/blob/master/promo.png?raw=true)
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_eight/blob/master/promo.jpg?raw=true)
 
 ### Key Features of the Dashboard
 
