@@ -24,7 +24,7 @@ Project is in development phase.
 
 ## Breakdown by Country
 
-![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_seven/blob/master/project_03.jpg?raw=true)
+![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_eight/blob/master/project_03.jpg?raw=true)
 
 
 
